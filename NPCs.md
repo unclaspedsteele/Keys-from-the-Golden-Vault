@@ -2,9 +2,8 @@
 
 ## Quentin Togglepocket
 * **Identity:** Gnome, owner of the Afterlife Casino.
-* **Alignment/Nature:** Lawful Evil (implied by exploitative business practices).
-* **Description:** Garishly dressed with a pointy beard; has a devilish countenance.
-* **Status:** Host of the Three Dragon Ante tournament; currently under investigation by the party regarding theft and rigged games.
+* **Alignment/Nature:** Lawful Evil (implied). Known to be a "stickler" for rules and tournament integrity.
+* **Status:** Managing the Three Dragon Ante tournament; currently dealing with recent party-related disturbances.
 
 ## Verity Kai
 * **Identity:** Tiefling, ally of the $Golden Vault$.
@@ -12,18 +11,25 @@
 
 ## Shadowclaw (Brie)
 * **Role:** Rogue/Operative for the Golden Vault.
-* **Current Persona:** Influencer/Reviewer ("Crystal Ballerina") and self-proclaimed security expert. Successfully stole an employee pass card from a dealer.
+* **Current Status:** Incarcerated in the Afterlife Casino jail.
 
 ## Oinkers McBoinkers (Bonk)
 * **Role:** Barbarian/Operative for the Golden Vault.
-* **Note:** Often acts as the "high roller" or "client."
+* **Current Status:** Incarcerated and unconscious/injured in the Afterlife Casino jail.
 
 ## Jim
 * **Identity:** Tiefling dock worker.
 * **Role:** Greets patrons at the casino entrance docks.
 
-## Jerry
-* **Identity:** Tieflag dealer.
-* **Note:** A dealer at a high-roller table, noted for being susceptible to flirting.
+## Jerry (also referred to as Johnny or Jamantha)
+* **Identity:** Tiefling server/staff in the restaurant area. 
+* **Note:** Enthusiastic about casino history and fun facts; friendly towards Elowen.
+
+## Nova
+* **Identity:** Tiefling staff member at the casino.
+
+## Korn Iron Pebble
+* **Identity:** Tournament patron.
+* **Status:** Recently knocked unconscious after a physical altercation with security.
 
 ---
